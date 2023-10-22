@@ -1,0 +1,8 @@
+Português
+
+Este simples programa serve para organizar de forma automática todos os arquivos que estão em uma determinada pasta que pode ser selecionada pelo usuário, ainda pode ser adicionado mais arquivos específicos, no mais, é apenas um treinamento feito por mim ^^
+
+
+English
+
+This simple program is used to automatically organize all the files that are in a specific folder that can be selected by the user. More specific files can also be added, however, it is just training done by me ^^
